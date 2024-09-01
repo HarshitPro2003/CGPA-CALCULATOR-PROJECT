@@ -1,0 +1,1 @@
+cout << "\033[1;35m**Welcome to the CGPA Calculator**\033[0m" << endl;
